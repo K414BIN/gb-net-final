@@ -1,0 +1,58 @@
+[
+  {
+    "id": "62c69a9755884566e9839c3f",
+    "title": "О пользе бега",
+    "category": "Красота, здоровье, спорт",
+    "authors": [
+      {
+        "name": "Михаил Круг",
+        "lang": "fr"
+      },
+      {
+        "name": "Макдональд Макдаков",
+        "lang": "en"
+      }
+    ],
+    "publicationDate": "2015",
+    "lang": "fr",
+    "pages": 668,
+    "ageLimit": 11
+
+  },
+  {
+    "id": "62c69a8755884566e9839c3f",
+    "title": "О вреде бега",
+    "category": "Красота, здоровье, спорт",
+    "authors": [
+      {
+        "name": "Михаил Толстой",
+        "lang": "fr"
+      },
+      {
+        "name": "Макдональд Кнутов",
+        "lang": "en"
+      }
+    ],
+    "publicationDate": "1915",
+    "lang": "fr",
+    "pages": 668,
+    "ageLimit": 11
+
+  },
+  {
+    "id": "62c69a8755884566e9849c3f",
+    "title": "Вобла и мир",
+    "category": "Классическая литература",
+    "authors": [
+      {
+        "name": "Лев Толстой",
+        "lang": "ru"
+      }
+    ],
+    "publicationDate": "1905",
+    "lang": "ru",
+    "pages": 1668,
+    "ageLimit": 11
+
+  }
+]
