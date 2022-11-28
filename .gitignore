@@ -3,3 +3,5 @@
 LibraryService/obj/
 LibraryService/bin/
 packages/
+LibraryService.Web/obj/
+LibraryService.Web/bin/
